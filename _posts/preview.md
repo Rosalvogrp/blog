@@ -5,15 +5,13 @@ coverImage: '/assets/blog/preview/cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
   name: Joe Haddad
-  picture: '/assets/blog/authors/joe.jpeg'
+  picture: '/assets/blog/authors/mj.jpeg'
 ogImage:
   url: '/assets/blog/preview/cover.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+Praia da Silveira - Garopaba
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+## Praia da Ferrugem - Garopaba
 
-## Lorem Ipsum
-
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+Distante 89 quilômetros do Sul de Florianópolis e 5 de Garopaba, é uma das praias mais lindas e movimentadas do litoral catarinense. Considerada o paraíso dos surfistas e recanto de belas mulheres, em suas areias circulam, todo o verão, turistas de toda a parte do país que encontram várias opções de lazer tanto para o dia como para a noite. No verão, a vida noturna da Ferrugem é tão agitada que há bares que só abrem a partir das 23 horas e fecham após o sol raiar. Com boa infra-estrutura de bares, restaurantes e muitas pousadas, a Ferrugem tem um canal que a separa da Praia da Barra. Foi este canal que deu nome à praia, pois em certos dias, em que seu fundo está cheio de areia, as águas ficam mais amareladas, com cor semelhante a ferrugem. O por do sol na lagoa é um espetáculo imperdível que deve ser apreciado. O Sambaqui que existe na beira da praia, localizado à esquerda do canal, também é um local interessante.

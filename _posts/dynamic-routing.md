@@ -1,19 +1,17 @@
 ---
 title: 'Praias em Garopaba'
-excerpt: 'Lcaracat labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
+excerpt: 'Praia do Siriú - Garopaba Integrada ao Parque Nacional da Serra do Tabuleiro,a região delimitada da Praia do Siriú até o Morro dos Cavalos, é considerada área de preservação permanente. Localizada a 9 quilômetros ao norte de Garopaba, possui enormes dunas que chegam a alcançar 5 quilômetros de lado.'
 coverImage: '/assets/blog/dynamic-routing/R12614e588addfb86350297ca29ae3857.jfif'
 date: '2020-03-16T05:35:07.322Z'
 author:
-  name: JJ Kasper
-  picture: '/assets/blog/authors/jj.jpeg'
+  name: Maju
+  picture: '/assets/blog/authors/mj.jpeg'
 ogImage:
-  url: '/assets/blog/dynamic-routing/cover.jpg'
+  url: '/assets/blog/dynamic-routing/R12614e588addfb86350297ca29ae3857.jfif'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+A praia de Garopaba, que fica bem no centro do município é a mais urbanizada e que oferece maior infra-estrutura. Possui hotéis, pousadas, campings, farmácias, bares e restaurantes para todos os gostos. Com cerca de 2 quilômetros de extensão, tem como principal característica a formação em enseada, garantindo segurança e conforto ao banhista. O lugar não é apropriado para o surfe, abrigando principalmente pescadores profissionais, que deixam suas canoas na beira da praia. é ideal para os esportes aquáticos, para o descanso e diversão à beira-mar e perfeito para caminhadas e passeios de bicicleta nos finais de tarde. Ao norte, é delimitada pelo costão do Siriú.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+## Praia da Gamboa - Garopaba
 
-## Lorem Ipsum
-
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+A Gamboa é a praia mais afastada de Garopaba à cerca de 15 km do centro de Garopaba, porém, suas características começam no acesso, uma estrada de chão revela cenários que incluem vales, dunas, rios e um mar muito azul. A praia abriga uma comunidade nativa e hospitaleira que se dedica à pesca. Atrai pessoas que querem desfrutar de sossego em um local calmo e tranqüilo. O mar oferece boas condições para a pratica do Surf e mergulho.
