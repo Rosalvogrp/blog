@@ -10,7 +10,7 @@ ogImage:
   url: '/assets/blog/hello-world/cover.jpg'
 ---
 
-Selvagem e com uma beleza exuberante, a praia do Silveira é considerada a melhor praia para a prática do surfe no Brasil e a quinta do mundo. Com 1,5 quilômetro de extensão, apresenta no seu canto esquerdo ondas perfeitas, com um detalhe inusitado: o fundo de pedras no canto Sul propicia a formação de verdadeiras pistas de água em movimento, que levam ao delírio surfistas de todo o mundo. A praia é cercada por uma montanha onde o verde da vegetação típica da Mata Atlântica ainda predomina e é também controlada em nível ambiental pelos seus moradores. Estuário de desova da tainha, a Silveira atrai também pescadores, que tentam a captura de peixes nobres como o robalo, badejo, garoupa, sargo, entre outros.
+Selvagem teste e com uma beleza exuberante, a praia do Silveira é considerada a melhor praia para a prática do surfe no Brasil e a quinta do mundo. Com 1,5 quilômetro de extensão, apresenta no seu canto esquerdo ondas perfeitas, com um detalhe inusitado: o fundo de pedras no canto Sul dadawd a formação de verdadeiras pistas de água em movimento, que levam ao delírio surfistas de todo o mundo. A praia é cercada por uma montanha onde o verde da vegetação típica da Mata Atlântica ainda predomina e é também controlada em nível ambiental pelos seus moradores. Estuário de desova da tainha, a Silveira atrai também pescadores, que tentam a captura de peixes nobres como o robalo, badejo, garoupa, sargo, entre outros.
 
 ## Praia da Silveira - Garopaba
 
