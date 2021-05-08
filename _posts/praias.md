@@ -1,13 +1,13 @@
 ---
-title: 'Preview Mode for Static Generation'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
-coverImage: '/assets/blog/preview/cover.jpg'
+title: 'Praias em Garopaba'
+excerpt: 'Distante 89 quilômetros do Sul de Florianópolis e 5 de Garopaba, é uma das praias mais lindas e movimentadas do litoral catarinense ...'
+coverImage: '/assets/blog/dynamic-routing/R12614e588addfb86350297ca29ae3857.jfif'
 date: '2020-03-16T05:35:07.322Z'
 author:
-  name: Joe Haddad
+  name: Maria Julya
   picture: '/assets/blog/authors/mj.jpeg'
 ogImage:
-  url: '/assets/blog/preview/cover.jpg'
+  url: '/assets/blog/dynamic-routing/R12614e588addfb86350297ca29ae3857.jfif'
 ---
 
 Praia da Silveira - Garopaba
