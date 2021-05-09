@@ -9,6 +9,7 @@ author:
 ogImage:
   url: '/assets/blog/dynamic-routing/o-que-fazer-garopaba-sc.jpg.webp'
 ---
+
 <div class="md:text-justify space-y-4" >
 <p class="text-lg font-semibold ">
 Garopaba é um município brasileiro do litoral sul do estado de Santa Catarina. Limita-se ao sul, com Imbituba, ao norte e a oeste com Paulo Lopes, e a Leste com o Oceano Atlântico. O nome da cidade tem origem indígena e significa “lugar de barcos “ou” enseada de barcos”, do descanso ou ainda o “lugar abençoado”. Nos anos 1970, com a chegada dos primeiros hippies e surfistas inicia-se a transformação da pequena cidade pesqueira em atrativo ponto turístico. </p>
@@ -24,4 +25,6 @@ Os esportes praticados são:<br>
 O município apresenta grande variedade de sítios arqueológicos na faixa litorânea, entre os quais: sambaquis, oficinas líticas e inscrições rupestres, riquezas culturais e históricas.</p>
 
 <p class="text-lg font-semibold">Hoje, Garopaba possui a maior indústria de roupas de neoprene, próprias para o surfe e o mergulho; a Mormaii. Apesar da decadência da pesca artesanal, a cidade que fica a 84 quilômetros do sul de Florianópolis é muito movimentada no período do natal ao carnaval, além de ser ideal para quem busca um pouco da natureza em meio à vida agitada das grandes cidades.</p>
+
+<img class="hover:shadow-medium transition-shadow duration-200" src="/assets/blog/dynamic-routing/o-que-fazer-garopaba-sc.jpg.webp"></img>
 </div>
