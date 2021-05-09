@@ -1,13 +1,13 @@
 ---
-title: 'Pontos turísticos próximos de Garopaba'
+title: 'Pontos turísticos de Garopaba'
 excerpt: 'Distante 89 quilômetros do Sul de Florianópolis e 5 de Garopaba, é uma das praias mais lindas e movimentadas do litoral catarinense ...'
-coverImage: '/assets/blog/dynamic-routing/R12614e588addfb86350297ca29ae3857.jfif'
+coverImage: '/assets/blog/dynamic-routing/Re8822ae4ec468b1cd1dd6718be1ed912.jfif'
 date: '2020-03-16T05:35:07.322Z'
 author:
   name: Maria Julya
   picture: '/assets/blog/authors/mj.jpeg'
 ogImage:
-  url: '/assets/blog/dynamic-routing/R12614e588addfb86350297ca29ae3857.jfif'
+  url: '/assets/blog/dynamic-routing/Re8822ae4ec468b1cd1dd6718be1ed912.jfif'
 ---
 
 Praia da Silveira - Garopaba
